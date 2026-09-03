@@ -1,3 +1,13 @@
+# Website Profil XI RPL 2 Kelompok6
+Website ini merupakan proyek pembelajaran kolaborasi Git dan GitHub.
+
+## Anggota Tim
+1. Nama PM : Miftah 
+2. Nama Developer Profil : Melisa
+3. Nama Developer Anggota : Reva
+4. Nama Developer Kontak : Alriz
+
+
 1. Apa perbedaan bekerja sendiri dengan bekerja menggunakan Git dan GitHub?
 Kalau kerja sendiri, folder project biasanya berantakan banget karena suka bikin copy-paste kaya project_final_v1, project_final_fix. Kalau ada kode yang rusak juga susah buat balik ke versi sebelumnya. Nah, pas pake Git dan GitHub, semua riwayat perubahan tercatat rapi. Kita bisa ngerjain fitur beda-beda bareng temen tanpa takut kodenya saling ketimpa, plus kodenya otomatis ke-backup di cloud.
 

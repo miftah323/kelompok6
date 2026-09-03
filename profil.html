@@ -7,42 +7,90 @@
 
         <style>
             body {
-                font-family: Arial, sans-serif;
-                background-color: #f4f4f4;
-                padding: 20px;
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                background: linear-gradient(135deg, #eef2f3 0%, #8e9eab 100%);
+                margin: 0;
+                padding: 40px 20px;
+                min-height: 100vh;
+                display: flex; 
+                justify-content: center;
+                align-items: center;
             }
-            section {
-                backgraund-color: white;
-                padding: 15px;
-                margin-bottom: 10px;
+
+            .container {
+                backgraund-color: #ffffff;
+                max-width: 600px;
+                width: 100%;
+                padding: 35px;
+                border-radius: 16px;
+                box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+            }
+
+            h1 {
+                color: #1a2a3a;
+                margin-top: 0;
+                margin-bottom: 5px;
+                font-size: 26px;
+            }
+
+            h2 {
+                color: #007bff;
+                margin-top: 0;
+                margin-bottom: 25px;
+                font-size: 18px;
+                font-weight: 600;
+            }
+
+            section{
+                backgraund-color: #f8f9fa;
+                padding: 18px 20px;
+                margin-bottom: 15px;
                 border-radius: 10px;
                 border-left: 5px solid #007bff;
+                transition: background-color 0.2s ease;
             }
-            h1 { color: #333; }
-            h3 { color: #007bff; }
+
+            section:hover {
+                transfrom: translateY(-2px);
+
+            } 
+
+            h3 {
+                margin: 0 0 8px 0;
+                color: #2c3e50;
+                font-size: 16px;
+            }
+
+            p { 
+                margin: 0;
+                color: #555555;
+                line-heught: 1.6;
+                font-size: 14px;
+            }
         </style>
     </head>
     <body>
-        <h1>XI Rekayasa Perangkat Lunak</h1>
-        <h2>SMKN 1 Garut</h2>
+        <div class="container">
+            <h1>XI Rekayasa Perangkat Lunak</h1>
+            <h2>SMKN 1 Garut</h2>
 
-        <section>
-            <h3>Program Keahlian</h3>
-            <p>Pengembangan Perangkat Lunak dan Gim (PPLG)</p>
-        </section>
-
-        <section>
-            <h3>Deskripsi</h3>
-        <p>Kami adalah siswa kelas XI RPL yang mempelajari pengembanganperangkat lunak,
-            pemograman web,dan kolaborasi tim.</p><p>
+            <section>
+                <h3>Program keahlian</h3>
+                <p>Pengembangan Perangkat Lunak dan Gim (PPLG)</p>
             </section>
 
-<section>
-    <h3>Visi kelas</h3>
-    <p>Menjadi kelas yang unggul, inovatif, dan bertanggung jawab.</p>
-    </section>
+            <section>
+                <h3>Deskripsi</h3>
+                <p>Kami adalah siswa kelas XI RPL yang mempelajari pengembanganperangkat lunak,
+                    pemograman web,dan kolaborasi tim.</p>
+            </section>
+
+            <section>
+                <h3>Visi kelas</h3>
+                <p>Menjadi kelas yang unggul, inovatif, dan bertanggung jawab.</p>
+            </section>
+        </div>
     </body>
-    </html>
+</html>
 
-
-    
+            

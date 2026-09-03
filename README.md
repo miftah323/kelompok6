@@ -110,6 +110,17 @@ Selalu bikin branch baru tiap mau ngerjain fitur baru dan rajin commit pake pesa
 
 Biasain minta review dari temen lewat PR sebelum merge kode, biar kualitas kodenya tetep terjaga
 
+## Jawaban Developer 3
+1. Apa perbedaan bekerja sendiri dengan bekerja menggunakan Git dan GitHub? Perbedaan utama antara bekerja sendiri secara konvensional dan menggunakan Git serta GitHub mencakup beberapa aspek penting dalam manajemen proyek dan kolaborasi tim
+2. Apa manfaat branch? Cabang atau branch dalam Git memberikan beberapa manfaat utama untuk pengembangan proyek, baik dikerjakan sendiri maupun bersama kelompok
+3. Mengapa Pull Request diperlukan? Pull Request (PR) sangat diperlukan dalam kolaborasi proyek berbasis Git dan GitHub karena tempat diskusi dan Review Kode,Mencegah Konflik dan Bug
+4. Apa manfaat Code Review? Meningkatkan Kualitas Kode,Berbagi Pengetahuan dan Memastikan Standar Koding
+5. Error apa yang paling sulit kalian selesaikan? menurut saya yang sulit ketika error memasukan code tetpi kodenya aada yang salah
+6. Bagaimana kalian menemukan solusinya? sayaa sukaa menanyakan dulu kepada temen tetapi kalo temen gatau sama, saya suka langsgsung menanykan kepada ai
+7. Apa kontribusi terbesar kalian dalam kelompok? tidak tahu, karna saya mengerjakan apa yang saya kerjakan dan bertanggung jawab
+8. Jika menjadi programmer profesional, kebiasaan apa dari kegiatan ini yang akan kalian pertahankan? yaa akan saya pertahankan
+
+
 ## Jawaban Refleksi Project Manager 
 1. Bekerja sendiri membuat kode mudah bertabrakan dan membingungkan jika dikirim lewat pesan biasa. Dengan Git dan GitHub, pengerjaan proyek bisa dilakukan secara teratur bersama tim melalui fitur branching, pull request, dan riwayat commit yang jelas.
 2. Branch memungkinkan setiap anggota tim mengerjakan fitur masing-masing tanpa mengganggu kode utama yang berada di branch main.
